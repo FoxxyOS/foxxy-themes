@@ -1,0 +1,97 @@
+foxxy-themes (2.6+foxxy3) testing; urgency=medium
+
+  * Add missing automotive icon.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 22 Jan 2018 20:11:29 +0100
+
+foxxy-themes (2.6+foxxy2) testing; urgency=medium
+
+  * Rebuild package.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 22 Jan 2018 16:56:16 +0100
+
+foxxy-themes (2.6+foxxy1) testing; urgency=medium
+
+  * Add anonsurf icon.
+  * Change foxxy logo.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 21 Jan 2018 18:02:01 +0100
+
+foxxy-themes (2.5+foxxy1) testing; urgency=medium
+
+  * Remove broken icons.
+  * Do some icons clean.
+  * Adjust incons index.
+  * Import new missing icons.
+  * Rebuild cache & include images in cache.
+  * Deduplicate icons with symlinks.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@localhost.localdomain>  Thu, 11 Jan 2018 22:30:33 +0100
+
+foxxy-themes (2.4+foxxy2) testing; urgency=medium
+
+  * Fix broken icons with spaces in names
+  * Rebuild icon cache.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Tue, 09 Jan 2018 03:13:52 +0100
+
+foxxy-themes (2.4+foxxy1) testing; urgency=medium
+
+  * Fix devices/scalable entry in maia icon theme.
+  * Change source package structure.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 28 Dec 2017 23:47:41 +0100
+
+foxxy-themes (2.3+foxxy1) testing; urgency=medium
+
+  * Adjust metacity background color in icy-dark theme.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 16 Oct 2017 01:18:52 +0200
+
+foxxy-themes (2.3+foxxy0) testing; urgency=medium
+
+  * Import ARK themes
+  * Change Icy-Dark metacity theme
+  * Drop old Circle themes
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 04 Jun 2017 19:43:33 +0200
+
+foxxy-themes (2.2+foxxy0) testing; urgency=medium
+
+  [Oscar Di Primio]
+  * Suggest most of the icon fixes
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 24 Jul 2016 04:05:13 +0200
+
+foxxy-themes (2.1+foxxy1) testing; urgency=medium
+
+  * Fix icon sizes
+  * Do minor icon fixes
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Fri, 3 Jun 2016 16:47:32 +0200
+
+foxxy-themes (2.1+foxxy0) testing; urgency=high
+
+  * Update (and fix) gtk3 engine
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Sun, 05 Jun 2016 02:41:25 +0200
+
+foxxy-themes (2.0+foxxy2) testing; urgency=medium
+
+  * Remove gtk3 theme support waiting for it to be fixed
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@autistiche.org>  Fri, 20 May 2016 19:16:28 +0400
+
+foxxy-themes (2.0+foxxy1) testing; urgency=medium
+
+  * Fix conflicts with old versions of acvamarin-theme
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@foxxysec.org>  Wed, 04 May 2016 02:39:07 +0400
+
+foxxy-themes (2.0+foxxy0) testing; urgency=medium
+
+  * Debianized and imported into foxxy source tree
+  * maia-icon-theme updated to fix dark icons
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Tue, 26 Apr 2016 01:19:38 +0200
+

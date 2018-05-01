@@ -1,0 +1,20 @@
+Source: foxxy-themes
+Section: foxxy
+Priority: optional
+Maintainer: Foxxy Dev Team <team@foxxysec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>,
+           Lisetta "Sheireen" Ferrero <sheireen@foxxysec.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 10)
+Build-Depends-Indep: pkg-config
+Homepage: http://www.foxxysec.org/
+
+Package: foxxy-themes
+Architecture: all
+Priority: optional
+Depends: gtk3-engines-breeze
+Recommends: humanity-icon-theme, gtk2-engines
+Replaces: acvamarin-theme, gnome-icon-theme
+Provides: acvamarin-theme, gnome-icon-theme
+Description: Foxxy GNU/Linux default themes and icons
+ This package contains the default themes and icons for Foxxy GNU/Linux
